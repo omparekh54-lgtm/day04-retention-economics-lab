@@ -1,0 +1,9 @@
+{
+  "name": "day04-retention-economics-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev":"next dev","build":"next build","start":"next start","test":"node --experimental-strip-types --test tests/*.test.ts"},
+  "dependencies": {"next":"16.3.0","react":"19.2.0","react-dom":"19.2.0","xlsx":"0.18.5"},
+  "devDependencies": {"@types/node":"22.13.10","@types/react":"19.0.10","@types/react-dom":"19.0.4","typescript":"5.8.2"}
+}
